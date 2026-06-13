@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Cleaned up old debug logs
 - Refactored module structure for clarity
+
+## 2026-06-13
+- Added type hints to helper functions
